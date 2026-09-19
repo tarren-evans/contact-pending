@@ -1,0 +1,11 @@
+CONTACT IMMINENT v0.6.3 // PASSIVE ISR PROTOTYPE
+
+- Preserves v0.6.2.1 recorded background soundtrack and tactile/menu audio.
+- Adds Passive ISR to Arcade and Campaign 01-04 / 01-05.
+- Correct dispositions award +10 ISR Credits; interrupting hostile collection awards an additional +10.
+- Deploy up to 3 passive collection nodes. Costs: 30 / 45 / 60 ISR Credits.
+- Node footprint radius: 92 map units.
+- UNKNOWN tracks inside a node footprint display PASSIVE CUE.
+- Passive cue does not classify a track automatically and does not reveal hidden truth.
+- Active ISR must still collect the track; passive cue reduces collection dwell from 1.0 sec to 0.55 sec.
+- Nodes are fixed for the duration of the run/mission.

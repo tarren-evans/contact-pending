@@ -1,0 +1,7 @@
+CONTACT IMMINENT v0.6.3.1 // PASSIVE ISR EXPANSION
+
+- Passive ISR node cap increased from 3 to 6.
+- Node costs now scale approximately 1.5x each deployment: 30 / 45 / 68 / 102 / 153 / 230 ISR Credits.
+- Intel Drop / Fusion UI reduced to a middle-size mobile footprint and lifted slightly higher on the map to avoid lower-screen iPhone controls.
+- Added a heavier synthesized explosion/impact sound for successful HOSTILE and IRREGULAR intercepts.
+- Recorded background soundtrack and tactile menu/UI audio retained.

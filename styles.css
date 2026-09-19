@@ -317,3 +317,24 @@ header .status{display:flex!important;flex-wrap:wrap!important;justify-content:f
 #mapWrap .intel-drop-timer{margin-top:6px!important;font-size:9px!important}
 #mapWrap .intel-fusion-badge{left:10px!important;bottom:68px!important;max-width:310px!important;padding:7px 10px!important;font-size:10px!important;border-width:2px!important}
 @media(max-width:900px),(max-height:650px){#mapWrap .intel-drop{left:7px!important;bottom:88px!important;width:min(270px,39%)!important;padding:9px 10px!important}#mapWrap .intel-drop-kicker{font-size:10px!important}#mapWrap .intel-drop-copy{font-size:8px!important}#mapWrap .intel-drop-btn{min-height:42px!important;margin:5px 0!important;padding:6px 8px!important}#mapWrap .intel-drop-btn b{font-size:10px!important}#mapWrap .intel-drop-btn span{font-size:7.5px!important}#mapWrap .intel-drop-timer{font-size:8px!important}#mapWrap .intel-fusion-badge{left:7px!important;bottom:52px!important;max-width:270px!important;font-size:9px!important}}
+
+
+/* v0.6.3 // PASSIVE ISR PROTOTYPE */
+.passive-isr-panel{border-top:1px solid rgba(216,168,62,.25)!important}
+.passive-isr-kv{display:grid;grid-template-columns:1fr auto;gap:4px 10px;margin:5px 0 7px;font-size:8px;letter-spacing:1px}.passive-isr-kv b{color:#d8a83e;text-align:right}
+#passiveDeploy{width:100%;min-height:34px;border:1px solid #8b7136;background:rgba(216,168,62,.07);color:#d8a83e;font-size:9px;letter-spacing:1px}#passiveDeploy.deploying{background:rgba(216,168,62,.22);box-shadow:0 0 14px rgba(216,168,62,.18)}
+.passive-hint{margin-top:6px;color:#8fa0a5;font-size:7px;line-height:1.35;letter-spacing:.5px}
+.passive-range-layer .passive-range{fill:rgba(216,168,62,.035);stroke:#d8a83e;stroke-width:1.5;stroke-opacity:.62;stroke-dasharray:5 7}.passive-node .passive-core{fill:#0d1418;stroke:#d8a83e;stroke-width:2}.passive-node .passive-mark{fill:none;stroke:#d8a83e;stroke-width:1.4}.passive-node text{fill:#d8a83e;font-size:9px;letter-spacing:1px}
+@media(max-width:900px),(max-height:650px){.passive-isr-kv{font-size:7px;margin:3px 0 5px}#passiveDeploy{min-height:29px;font-size:8px}.passive-hint{font-size:6.5px;margin-top:4px}}
+\n/* v0.6.3.1 // MOBILE INTEL REPORTING MID-SIZE */
+#mapWrap .intel-drop{left:9px!important;bottom:112px!important;width:min(270px,38%)!important;padding:10px 11px!important;border-width:2px!important}
+#mapWrap .intel-drop-kicker{font-size:11px!important;margin-bottom:4px!important}
+#mapWrap .intel-drop-copy{font-size:8px!important;margin-bottom:6px!important}
+#mapWrap .intel-drop-btn{min-height:43px!important;margin:5px 0!important;padding:6px 8px!important}
+#mapWrap .intel-drop-btn b{font-size:10px!important}
+#mapWrap .intel-drop-btn span{font-size:7.5px!important}
+#mapWrap .intel-drop-timer{margin-top:5px!important;font-size:8px!important}
+#mapWrap .intel-fusion-badge{left:9px!important;bottom:78px!important;max-width:270px!important;padding:6px 8px!important;font-size:9px!important}
+@media(max-width:900px),(max-height:650px){#mapWrap .intel-drop{left:7px!important;bottom:100px!important;width:min(230px,35%)!important;padding:8px 9px!important}#mapWrap .intel-drop-kicker{font-size:9px!important}#mapWrap .intel-drop-copy{font-size:7px!important}#mapWrap .intel-drop-btn{min-height:38px!important;margin:4px 0!important;padding:5px 7px!important}#mapWrap .intel-drop-btn b{font-size:9px!important}#mapWrap .intel-drop-btn span{font-size:7px!important}#mapWrap .intel-drop-timer{font-size:7.5px!important}#mapWrap .intel-fusion-badge{left:7px!important;bottom:68px!important;max-width:230px!important;font-size:8px!important}}
+
+.passive-nai polygon{fill:rgba(216,168,62,.08);stroke:#d8a83e;stroke-width:1.6;stroke-opacity:.78;stroke-dasharray:8 5}.passive-nai text{fill:#e8c56d;font-size:9px;font-weight:700;letter-spacing:.7px;text-anchor:middle;paint-order:stroke;stroke:#0d1418;stroke-width:3px;stroke-linejoin:round}

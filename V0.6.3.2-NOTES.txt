@@ -1,0 +1,9 @@
+CONTACT IMMINENT v0.6.3.2 // PASSIVE ISR NAI
+
+- Fixed Passive ISR coverage-ring render layer: ranges now render above terrain/grid while node icons remain above tactical tracks.
+- Three nearby Passive ISR nodes can establish an NAI.
+- NAI requirements: all three nodes within 270 map units (~3 hex spacing) and meaningful triangle area.
+- Nodes are greedily assigned to one NAI each; six nodes support up to two independent NAIs.
+- UNKNOWN tracks inside an NAI auto-collect over 1.0 sec without ISR-01. Leaving the NAI resets collection.
+- NAI-derived correct dispositions award +5 ISR Credits; manually collected correct dispositions remain +10.
+- Existing recorded soundtrack, tactile UI audio, six-node costs, Intel Drop sizing, and intercept explosion SFX retained.
