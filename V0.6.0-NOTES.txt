@@ -1,0 +1,12 @@
+CONTACT IMMINENT v0.6.0 // ARCADE
+
+- Activates ARCADE from the main menu.
+- Endless OA KESTREL run with escalating Threat Levels every 75 seconds.
+- Increasing spawn rate, active-contact cap, and threat mix.
+- Uses all four track classes and five BLUFOR sites.
+- Hostile collection, infrastructure exposure/degradation, OE compromise, Intel Drops, and ISR Fusion remain active.
+- Arcade scoring adds correct-decision streak bonuses.
+- Failure: OE compromise reaches 60% or Intelligence Integrity reaches 0%.
+- Dedicated Arcade AAR: score, survival time, threat level, resolved contacts, intercepted threats, collection interruptions, accuracy, longest streak, degraded sites, and final OE compromise.
+- Arcade state is separate from Campaign 01 progression.
+- Campaign 01 gameplay/progression preserved.

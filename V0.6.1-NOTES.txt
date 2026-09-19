@@ -1,0 +1,23 @@
+CONTACT IMMINENT v0.6.1 // TACTICAL AUDIO
+
+BASELINE
+- Built from accepted v0.6.0.3 Arcade Pressure.
+- Campaign 01 mechanics/balance preserved.
+- Arcade Pressure mechanics preserved.
+
+INTEL UI
+- INTEL DROP reporting choice moved into the map, lower-left.
+- INTEL FUSION countdown moved into the same lower-left command area.
+- Both sit above the compact transient notification area.
+
+TACTICAL AUDIO v1
+- Synthesized locally with Web Audio API; no external audio files.
+- Audio unlocks on first pointer/touch interaction for mobile/PWA compatibility.
+- Distinct restrained tones for ISR acquire/order, new contact, classification,
+  correct/incorrect disposition, hostile collection warning, Intel Drop,
+  ISR Fusion, Threat Level increase, BLUFOR degradation, and Arcade failure.
+- Contact and hostile warning tones are rate-limited to avoid audio spam.
+
+VALIDATION
+- node --check game.js PASS.
+- PWA cache/version bumped to v0.6.1.

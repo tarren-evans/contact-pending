@@ -1,0 +1,9 @@
+CONTACT IMMINENT v0.6.0.3 // ARCADE PRESSURE
+
+- Arcade hidden HST/IRG tracks can begin collection without prior player classification.
+- Hidden collection setup window starts at 12 sec and compresses with Threat Level to a 6 sec minimum.
+- Arcade OE floor now combines infrastructure exposure (up to 25 points) with +8 points per fully degraded BLUFOR site. Five fully degraded sites force OE above the 60% catastrophic threshold.
+- Campaign OE floor remains unchanged.
+- BLUFOR map symbols and labels switch from blue to red and append DEGRADED when fully exposed.
+- Fixed degradation detection for passive enemy exposure reaching 100%.
+- Retains v0.6.0.2 HUD/pause fixes.

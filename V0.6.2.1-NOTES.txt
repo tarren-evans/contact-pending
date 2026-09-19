@@ -1,0 +1,8 @@
+CONTACT IMMINENT v0.6.2.1 // RECORDED BACKGROUND AUDIO
+
+- Replaced procedural menu/mission background score with audio extracted from the user-provided MKV recording.
+- Background track loops continuously through menus and missions.
+- Retains v0.6.2 tactile menu hover/click sounds and tactical event SFX.
+- Background attenuates while paused and restores on resume.
+- Added recorded track to PWA service-worker precache for offline play.
+- Source audio packaged as assets/audio/mission-background.m4a.

@@ -1,0 +1,6 @@
+CONTACT IMMINENT v0.6.0.1 — ARCADE PAUSE + ISR DISPLAY HOTFIX
+
+- Fixed pause timestamp compensation: global Intel Drop/Fusion timestamps are now adjusted once per resume instead of once per active track.
+- Preserved per-track pause compensation for born/proximity/collection/stall timestamps.
+- Centralized player-facing ISR mode formatting so ON_STATION renders as ON STATION.
+- No Arcade balance or Campaign gameplay changes.

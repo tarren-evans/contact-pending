@@ -1,0 +1,8 @@
+CONTACT IMMINENT v0.6.0.2 — HUD DISPLAY HOTFIX
+
+- Fixed upper-left map HUD to render ON STATION instead of ON_STATION.
+- Replaced corrupted pause-button glyph with ASCII-safe || PAUSE.
+- Replaced corrupted initial ISR badge separator with ASCII-safe marker.
+- Retains v0.6.0.1 pause timestamp compensation fix.
+- No Arcade balance changes.
+- No Campaign gameplay changes.
